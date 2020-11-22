@@ -1,4 +1,5 @@
-# Trabalho de teste de unidade :: The Hero Game
+# Trabalho de teste de unidade :: Arable Land
 
 ## Grupo
 - Renan Santos Gomes
+- Henrique Santa Catharina Junges
